@@ -1,18 +1,20 @@
-```python
-name: Lavesh Gupta
-located_in: India
-education: ["Final Year, BTech, Electrical Engineering"]
-institute: IIT Kanpur 
-job: [" (Upcoming) Application Developer - 1 at Oracle"]
-past experiences:
-  - ["Trainee Analyst", "Trading", "Axxela Analytics & Research", "May-July 2024"]
-  - ["Machine Learning Intern", "Hudson & Thames LLC", "June-July 2023"] 
-  - ["Summer Research Associate", "Office of Research & Development, IIT Kanpur", "Prof. N.S. Vyas" "Apr-Jul 2023"]
-  - ["Research Consultant", "WorldQuant BRAIN", "Remote", "Jan 2023 - Present"]
+```yaml
+name: lavesh gupta
+located_in: hyderabad, telangana
+education: btech ee @ iit kanpur
+job: swe @ oracle
 
-fields_of_interests: ["Network Porgramming", "Operating Systems", "Software Development", "Software Architecture"]
-technical_background: [["Java", "C++", "C"],
-                       ["MongoDB", "Express", "React", "Node"],
-                       [" SpringBoot, Core Java (SE), JDBC, Servelets, JSP"]]
-hobbies: ["Chess", "Badminton", "Cricket", "Music"]
+internship_experiences:
+  - analyst intern @axxela
+  - ml intern @ hudson & thames
+  - research consultant @ wq brain 
+
+fields_of_interest:
+  - Software Development
+  - Software Architecture
+
+technical_background:
+  languages: ["Java", "C++"]
+  web_stack: ["MongoDB", "Express", "React", "Node.js"]
+  java_technologies: ["Spring Boot"]
 ```
