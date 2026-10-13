@@ -10,11 +10,11 @@ internship_experiences:
   - research consultant @ wq brain 
 
 fields_of_interest:
-  - Software Development
-  - Software Architecture
+  - frontend, backend
+  - architecture, api design 
 
 technical_background:
-  languages: ["Java", "C++"]
-  web_stack: ["MongoDB", "Express", "React", "Node.js"]
-  java_technologies: ["Spring Boot"]
+  languages: ["java", "c++", "js/ts"]
+  web_stack: ["mongodb", "oracle sql", "react", "node"]
+  java_technologies: ["spring" , "springboot"]
 ```
